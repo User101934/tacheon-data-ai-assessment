@@ -140,6 +140,10 @@ GROUP BY market_status
 ORDER BY avg_price DESC;
 ```
 
+## SQL Query Output
+
+![SQL Query Output](sql_query_output.png)
+
 ---
 
 # Sample Insight
@@ -193,3 +197,9 @@ The implementation focuses on:
 - readability
 - modular design
 - analytical usefulness
+
+---
+
+## BigQuery Dataset and Table
+
+![BigQuery Table](bigquery_table.png)
