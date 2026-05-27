@@ -142,7 +142,7 @@ ORDER BY avg_price DESC;
 
 ## SQL Query Output
 
-![SQL Query Output](sql_query_output.png)
+![SQL Query Output](sql_output.png)
 
 ---
 
@@ -202,4 +202,4 @@ The implementation focuses on:
 
 ## BigQuery Dataset and Table
 
-![BigQuery Table](bigquery_table.png)
+![BigQuery Table](big_query_table.png)
